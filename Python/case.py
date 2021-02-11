@@ -6,3 +6,9 @@ day_of_birth = str(result[4] + result[5])
 # print(year_of_birth, month_of_birth, day_of_birth)
 
 print(f"{month_of_birth}/{day_of_birth}/19{year_of_birth}")
+
+
+def helloWorld():
+    print('Hello World')
+
+helloWorld()
